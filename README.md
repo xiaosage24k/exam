@@ -7,6 +7,6 @@
 
  * 1.2 写成参考文献的格式。
  * 1.3 用latex编写出NMF和CNMF的模型。
-### 2.matlab实践题：
-把NMF的代码改成CNMF的代码，并在两个数据集上做分类实验。
+### 2.matlab实践题：给定NMF基本代码、交叉验证函数[点这里](https://github.com/xiaosage24k/exam/tree/master/code)和两个数据集[点这里](https://github.com/xiaosage24k/exam/tree/master/dataset)：
+* 2.1 把NMF的代码改为CNMF的代码，分别测试NMF和CNMF（50%标签）在两个数据集上的3fold交叉验证的分类结果，把结果绘制成表格。
 ### 3.结果描述题：绘制一个表格，一个曲线图，
