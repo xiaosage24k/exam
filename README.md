@@ -13,5 +13,5 @@
 ### 3.结果展示题：
 * 3.1 把2.1中NMFCNMF的分类精度绘制成下图一样的柱状图。横坐标为数据集，纵坐标为精度。
 ![image](https://github.com/xiaosage24k/exam/blob/master/images/%E6%9F%B1%E7%8A%B6%E5%9B%BE.png)
-* 3.2 在ORL数据集上分别测试包含10%、20%、30%标签的CNMF的3fold交叉验证的分类结果，并绘制出类似下面的曲线图。 横坐标为标签比例，纵坐标为精度。     
+* 3.2 在ORL数据集上分别测试包含10%、20%、30%标签的CNMF的聚类精度，并绘制出类似下面的曲线图。 横坐标为标签比例，纵坐标为聚类精度。     
         ![image](https://github.com/xiaosage24k/exam/blob/master/images/%E6%9B%B2%E7%BA%BF%E5%9B%BE.jpg)
