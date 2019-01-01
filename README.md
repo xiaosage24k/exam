@@ -1,6 +1,6 @@
 # 2018-2019第一学期期末考核
 
-#### 考核说明：给定cls文件[（点这里）](https://github.com/xiaosage24k/exam/tree/master/tex)，答题内容写在latex上，其他包、格式自己填写。
+#### 考核说明：给定cls文件[（点这里）](https://github.com/xiaosage24k/exam/tree/master/tex)，答题内容写在latex上，双栏，其他包、格式自己填写，图片的要求和周报告一样。
 ### 1.文献整理、公式编写题：
  * [1.1](http://www.4243.net/)  下载引用CNMF的最新的2篇会议论文和2篇期刊论文，修改下载文件的名字（如下图），截图附在PDF上。
  ![image](https://github.com/xiaosage24k/exam/blob/master/images/%E4%B8%8B%E8%BD%BD%E6%96%87%E7%8C%AE%E5%91%BD%E5%90%8D%E6%A0%BC%E5%BC%8F.jpg)
