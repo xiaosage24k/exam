@@ -6,12 +6,12 @@
  ![image](https://github.com/xiaosage24k/exam/blob/master/images/%E4%B8%8B%E8%BD%BD%E6%96%87%E7%8C%AE%E5%91%BD%E5%90%8D%E6%A0%BC%E5%BC%8F.jpg)
  
  * 1.2 写成参考文献的格式。
- * 1.3 用latex编写出NMF和CNMF的公式。
-### 2.matlab实践题：给定NMF基本代码、交叉验证函数[（点这里）](https://github.com/xiaosage24k/exam/tree/master/code)和两个数据集[（点这里）](https://github.com/xiaosage24k/exam/tree/master/dataset)：
-* 2.1 把NMF的代码改为CNMF的代码，分别测试NMF和CNMF（50%标签）在两个数据集上的3fold交叉验证的分类结果，把结果绘制成表格（如下图）。    
+ * 1.3 用latex编写出NMF和CNMF的公式。注意： 矩阵大写黑正体，向量小写黑正体，常数用斜体。 
+### 2.matlab实践题：给定NMF基本代码、交叉验证函数、分类聚类指标测试函数[（点这里）](https://github.com/xiaosage24k/exam/tree/master/code)和两个数据集[（点这里）](https://github.com/xiaosage24k/exam/tree/master/dataset)：
+* 2.1 把NMF的代码改为CNMF的代码，分别测试NMF和CNMF（50%标签）在两个数据集上的3fold交叉验证的分类和聚类结果，把结果绘制成表格（如下图）。  分类只有1个指标，而聚类有7个指标；分类和聚类做成两个表。
 ![image](https://github.com/xiaosage24k/exam/blob/master/images/%E8%A1%A8%E6%A0%BC1.jpg)
 ### 3.结果展示题：
-* 3.1 把2.1表格中的数据绘制成下图一样的柱状图。
+* 3.1 把2.1中的分类精度绘制成下图一样的柱状图。横坐标为数据集，纵坐标为精度。
 ![image](https://github.com/xiaosage24k/exam/blob/master/images/%E6%9F%B1%E7%8A%B6%E5%9B%BE.png)
-* 3.2 在ORL数据集上分别测试包含10%、20%、30%标签的CNMF的3fold交叉验证的分类结果，并绘制出类似下面的曲线图。   
+* 3.2 在ORL数据集上分别测试包含10%、20%、30%标签的CNMF的3fold交叉验证的分类结果，并绘制出类似下面的曲线图。 横坐标为标签比例，纵坐标为精度。     
         ![image](https://github.com/xiaosage24k/exam/blob/master/images/%E6%9B%B2%E7%BA%BF%E5%9B%BE.jpg)
