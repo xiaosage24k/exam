@@ -7,8 +7,8 @@
  
  * 1.2 写成参考文献的格式。
  * 1.3 用latex编写出NMF和CNMF的公式。注意： 矩阵大写黑正体，向量小写黑正体，变量用斜体。 
-### 2.matlab实践题：给定NMF基本代码、交叉验证函数、分类聚类指标测试函数[（点这里）](https://github.com/xiaosage24k/exam/tree/master/code)和两个数据集[（点这里）](https://github.com/xiaosage24k/exam/tree/master/dataset)：
-* 2.1 把NMF的代码改为CNMF的代码，分别测试NMF和CNMF（50%标签）在两个数据集上的3fold交叉验证的分类和聚类结果，把结果绘制成表格（如下图）。 注意：分类只有1个指标，而聚类有7个指标；分类和聚类做成两个表；对于CNMF的聚类，只测试训练时没有用到标签的部分。
+### 2.matlab实践题：给定NMF、CNMF基本代码、交叉验证函数、分类聚类指标测试函数[（点这里）](https://github.com/xiaosage24k/exam/tree/master/code)和两个数据集[（点这里）](https://github.com/xiaosage24k/exam/tree/master/dataset)：
+* 2.1 分别测试NMF和CNMF（50%标签）在两个数据集上的3fold交叉验证的分类和聚类结果，把结果绘制成表格（如下图）。 注意：分类只有1个指标，而聚类有7个指标；分类和聚类做成两个表；对于CNMF的聚类，只测试训练时没有用到标签的部分。
 ![image](https://github.com/xiaosage24k/exam/blob/master/images/%E8%A1%A8%E6%A0%BC1.jpg)
 ### 3.结果展示题：
 * 3.1 把2.1中NMFCNMF的分类精度绘制成下图一样的柱状图。横坐标为数据集，纵坐标为精度。
